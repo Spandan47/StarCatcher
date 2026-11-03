@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cazador de Estrellas</string>
+    <string name="start_title">Cazador de Estrellas</string>
+    <string name="start_instructions">Toca las estrellas que caen antes de que lleguen al suelo. Las estrellas doradas valen 5 puntos. ¡Tienes 3 vidas!</string>
+    <string name="name_hint">Tu nombre</string>
+    <string name="default_name">Jugador</string>
+    <string name="play">Jugar</string>
+    <string name="best_score">Mejor puntuación: %1$d</string>
+    <string name="hud_format">%1$s   Puntos: %2$d   Vidas: %3$s</string>
+    <string name="game_area_description">Área de juego. Toca las estrellas que caen.</string>
+    <string name="easter_egg">¡Lluvia de estrellas doradas!</string>
+    <string name="share">Compartir</string>
+    <string name="share_text">¡%1$s obtuvo %2$d puntos en Cazador de Estrellas! ¿Puedes superarlo?</string>
+    <string name="share_chooser">Comparte tu puntuación</string>
+    <string name="game_over">Fin del juego</string>
+    <string name="results_summary">%1$s, ¡obtuviste %2$d puntos!</string>
+    <string name="top_scores">Las 5 mejores puntuaciones</string>
+    <string name="play_again">Jugar de nuevo</string>
+    <string name="score_row">%1$d. %2$s</string>
+</resources>

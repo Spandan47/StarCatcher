@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.StarCatcher" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="colorPrimary">@color/gold</item>
+        <item name="colorOnPrimary">@color/night_blue</item>
+        <item name="colorSecondary">@color/gold</item>
+        <item name="android:windowBackground">@color/night_blue</item>
+        <item name="android:statusBarColor">@color/night_purple</item>
+    </style>
+</resources>
